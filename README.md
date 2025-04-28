@@ -17,9 +17,8 @@ It allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin 
 
 ## 📸 Screenshot
 
-![Temperature Converter Preview](./C:\Users\LENOVO\OneDrive\Pictures\Screenshots\Screenshot 2025-04-28 210827.png)
+![image](https://github.com/user-attachments/assets/d4ec5744-a12b-48fa-a32a-184e25955d2b)
 
-*(Replace with actual screenshot if you add one)*
 
 ---
 
