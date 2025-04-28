@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Temperature Converter</title>
+    <link rel="icon" type="image/x-icon" href="/Images/Icon.png" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="parent-container">
+      <div class="container">
+        <h1>Convert Temperaure to °C</h1>
+        <br />
+        <div id="result-parent">
+          <h1 id="result">Result Here</h1>
+        </div>
+        <div id="convert">
+          <input
+            type="number"
+            id="temperature"
+            placeholder="Enter Temperature"
+          />
+          <br />
+          <br />
+          <h3>Choose your Unit</h3>
+          <select id="unit">
+            <option value="°C">Celcius</option>
+            <option value="F">Farenhite</option>
+            <option value="K">Kelvin</option>
+          </select>
+          <br />
+          <br />
+          <button id="convert-btn">Convert Button</button>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
